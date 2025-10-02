@@ -92,7 +92,7 @@ Modern to-do app with **Add/Edit/Delete**, **Local Storage**, and **Custom UI**.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://www.linkedin.com/in/rafideveloper7/" />
   </a>
 </p>
 
