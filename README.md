@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Rafi Ullah 👋</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Frontend+%7C+Backend+%7C+MERN+Stack;%20Always+Learning+and+Building+Cool+Stuff!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Frontend+%7C+Backend+%7C+MERN+Stack;%20Always+Learning+and+Building+Cool+Stuff!" />
 </p>
 
 <p align="center">
